@@ -12,6 +12,8 @@ If you prefer to run the application using a local LLM instead of the Groq API, 
     pip install -r requirements.txt
     ```
 
+    - For more details on setup, see the [langchain groq](./Readme.md).
+
 2. **Modify the `services.py`**:
     - Update the `create_llm` function in `app/services.py` to use `ChatOllama` instead of `ChatGroq`:
     ```python
