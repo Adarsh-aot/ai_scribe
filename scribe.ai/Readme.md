@@ -85,6 +85,8 @@ API=your_api_key_here
 
 This `API` key is required for accessing the LLM service.
 
+- For more details on setup locally, see the [set up locally](./ollama.md).
+
 ## Usage
 
 ### Running the Application
