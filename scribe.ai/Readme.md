@@ -24,7 +24,7 @@ This project is a FastAPI application that processes SOAP notes (Subjective, Obj
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/your-username/ai_scribe.git
-    cd your-repo-name
+    cd ai_scribe
     ```
 
 2. **Create a virtual environment**:
