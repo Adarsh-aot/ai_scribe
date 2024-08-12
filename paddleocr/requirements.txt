@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+paddlepaddle==2.5.1  # PaddleOCR requires PaddlePaddle
+paddleocr==2.6.1.3
+PyMuPDF==1.22.3
+Pillow==9.4.0
+numpy==1.25.0
