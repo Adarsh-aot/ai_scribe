@@ -54,10 +54,15 @@ Use `curl` to send a request to the API:
 ```bash
 curl -X POST "http://127.0.0.1:8000/ocr/" -H "accept: application/json" -H "Content-Type: multipart/form-data" -F "file=@yourfile.pdf" -F "lang=en"
 ```
-Use    `Fastapi` to send request to api
+Use `Fastapi` to send request to api
 
 check out the link to understand the process 
+
+```bash
 https://scribehow.com/shared/Access_and_Execute_API_Endpoint_in_Localhost__VzwXAztSQJudFHJBhOw6yA
+```
+
+
 ### Response
 
 The API will return a JSON object with the extracted text:
