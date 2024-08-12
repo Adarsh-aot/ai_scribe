@@ -58,7 +58,7 @@ Use `Fastapi` to send request to api
 
 check out the link to understand the process 
 
-```bash
+```link
 https://scribehow.com/shared/Access_and_Execute_API_Endpoint_in_Localhost__VzwXAztSQJudFHJBhOw6yA
 ```
 
