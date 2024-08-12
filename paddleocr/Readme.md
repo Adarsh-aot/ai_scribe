@@ -57,10 +57,9 @@ curl -X POST "http://127.0.0.1:8000/ocr/" -H "accept: application/json" -H "Cont
 Use `Fastapi` to send request to api
 
 check out the link to understand the process 
+-
+- https://scribehow.com/shared/Access_and_Execute_API_Endpoint_in_Localhost__VzwXAztSQJudFHJBhOw6yA
 
-```link
-https://scribehow.com/shared/Access_and_Execute_API_Endpoint_in_Localhost__VzwXAztSQJudFHJBhOw6yA
-```
 
 
 ### Response
